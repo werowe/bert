@@ -1,4 +1,4 @@
-This Jupyter notebook sets up and runs a HuggingFace + TensorFlow experiment to fine-tune a DistilBERT model for classifying snippets of text as contracts or non-contracts. It uses a small mock dataset of HTML snippets and shows how to preprocess, tokenize, create datasets, and train/evaluate the model.
+[This Jupyter](https://github.com/werowe/bert/blob/main/lawinsider.ipynb) notebook sets up and runs a HuggingFace + TensorFlow experiment to fine-tune a DistilBERT model for classifying snippets of text as contracts or non-contracts. It uses a small mock dataset of HTML snippets and shows how to preprocess, tokenize, create datasets, and train/evaluate the model.
 
 ---
 
